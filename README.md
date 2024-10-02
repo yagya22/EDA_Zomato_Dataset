@@ -1,6 +1,7 @@
-# Zomato Bangalore Data Analysis 
-**Dataset Link** https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
+# Zomato Bangalore Data Analysis
 EDA for restaurant data in Bangalore using the Zomato dataset from Kaggle. The project aims to extract insights regarding restaurant locations, customer preferences, and trends in online ordering and table booking.
+
+**Dataset Link** https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
 
 ## Dataset Overview
 The dataset includes:
