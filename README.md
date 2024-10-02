@@ -24,7 +24,7 @@ The dataset includes:
 ## Visualizations & Plots
 - **Pie Charts:** Top 10 locations based on outlet counts.
 - **Bar Plots:** Ratings by location, showing popular areas and their restaurant density.
-- 
+
 ##Tools & Libraries
 - **Pandas** for data manipulation
 - **Matplotlib** for visualization
